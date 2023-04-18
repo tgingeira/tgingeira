@@ -6,9 +6,9 @@ I hold a diploma in Data Science and a Higher Diploma in Data Analytics for Busi
 
 # Portfolio :books:
 
-- [SQL](#sql)
-- [Python](#python)
-- [Power BI](#power-bi)
+- [SQL](https://github.com/tgingeira/portfolio#sql)
+- [Python](https://github.com/tgingeira/portfolio#python)
+- [Power BI](https://github.com/tgingeira/portfolio#power-bi)
 
 ## Skils :computer:
 
@@ -22,6 +22,8 @@ Examples of how I have used these skills in past projects:
 - Conducted complex queries in SQL to analyze data and identify trends and patterns
 - Developed scripts in Python for data preprocessing and analysis
 - Created interactive dashboards in Power BI to visualize and communicate data insights
+
+[Portfolio](https://github.com/tgingeira/portfolio)
 
 
 ## Tools :wrench:
