@@ -4,7 +4,7 @@ Hi there! My name is Tiago and I'm a data analyst from Portugal with a passion f
 
 I hold a diploma in Data Science and a Higher Diploma in Data Analytics for Business. I'm always looking for new challenges and opportunities to learn and grow in the field of data analysis. If you have any questions or are interested in collaborating, please don't hesitate to reach out!
 
-# Portfolio :books:
+# Portfolio :books: (under construction :construction_worker:)
 
 - [SQL](https://github.com/tgingeira/portfolio#sql)
 - [Python](https://github.com/tgingeira/portfolio#python)
@@ -22,9 +22,6 @@ Examples of how I have used these skills in past projects:
 - Conducted complex queries in SQL to analyze data and identify trends and patterns
 - Developed scripts in Python for data preprocessing and analysis
 - Created interactive dashboards in Power BI to visualize and communicate data insights
-
-[Portfolio](https://github.com/tgingeira/portfolio)
-
 
 ## Tools :wrench:
 
